@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hello World.... 👋
+- 🌱 I’m currently learning C# & Python
+- 📫 How to reach me: Niklas.Jul@Julit.dk
 <!--
 **SirJul1337/SirJul1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
