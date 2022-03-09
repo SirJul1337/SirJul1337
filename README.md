@@ -1,8 +1,8 @@
 ### Hello World.... 👋
 - 🌱 I’m currently learning C# & Python
 - 📫 How to reach me: 
-- 📧 Mail: Niklas.Jul@Julit.dk
-- LinkedIn: https://www.linkedin.com/in/niklas-jul-367b65215/
+  📧 Mail: Niklas.Jul@Julit.dk
+  LinkedIn: https://www.linkedin.com/in/niklas-jul-367b65215/
 <!--
 **SirJul1337/SirJul1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
