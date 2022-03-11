@@ -1,4 +1,3 @@
-![Image](https://miro.medium.com/max/1400/1*OohqW5DGh9CQS4hLY5FXzA.png)
 
 ### Hello World.... 👋
 - 🌱 I’m currently learning C# & Python
