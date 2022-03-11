@@ -1,3 +1,5 @@
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fappsflyer%2Fhow-can-hello-world-program-effect-the-way-you-think-about-programing-3be5cefdaf8c&psig=AOvVaw16NrwxAyl8raW06P04S7Jl&ust=1647081196262000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIDWrOPtvfYCFQAAAAAdAAAAABAD)
+
 ### Hello World.... 👋
 - 🌱 I’m currently learning C# & Python
 - 📫 How to reach me: 
