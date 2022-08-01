@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/niklas-jul-367b65215/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-  <div>
+  </div>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SirJul1337&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirJul1337&layout=compact&theme=vision-friendly-dark)]              (https://github.com/anuraghazra/github-readme-stats)
