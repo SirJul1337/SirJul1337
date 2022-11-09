@@ -10,7 +10,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SirJul1337&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </p>
-  📧 Mail: Niklas.Jul@Julit.dk
+  <p href="mailto:Niklas.Jul@Julit.dk"><img src="https://img.shields.io/badge/-Niklas.Jul@Julit.dk-D14836?style=flat&logo=Gmail&logoColor=white"/></p>
   <div id="badges">
     <a href="https://www.linkedin.com/in/niklas-jul-367b65215/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
